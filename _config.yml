@@ -1,7 +1,7 @@
 name: mrx
 favicon: null
-layout_spectrum: 0.24182346370071173
-typography_spectrum: 0.043273136019706726
+layout_spectrum: 0
+typography_spectrum: 0.04837
 cta:
   domain: null
   bucket: null
