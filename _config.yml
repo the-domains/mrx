@@ -1,28 +1,40 @@
-name: mrx
+layout_spectrum: 1
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.04837
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: mrx
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
   brandStrength: 0.875
   lightness: 0.4445281259249896
   saturation: 0.8451012293808162
   rhythmicContrast: 0.5041869888082147
-purpose: []
+  brandColors:
+    - '#CF925C'
+    - '#160D0D'
+    - '#4B3930'
+    - '#6E6F64'
+    - '#FFFBF1'
+typography_spectrum: 0.04837
