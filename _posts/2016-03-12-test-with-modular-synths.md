@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Hooking up a vintage modular
-datePublished: '2016-03-12T07:36:45.228Z'
-dateModified: '2016-03-12T07:34:46.976Z'
+datePublished: '2016-03-12T07:38:28.416Z'
+dateModified: '2016-03-12T07:38:20.803Z'
 title: External device test
 author: []
 sourcePath: _posts/2016-03-12-test-with-modular-synths.md
