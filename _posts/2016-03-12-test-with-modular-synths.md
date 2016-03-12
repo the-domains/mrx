@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Hooking up a vintage modular
-datePublished: '2016-03-12T07:38:28.416Z'
-dateModified: '2016-03-12T07:38:20.803Z'
+datePublished: '2016-03-12T08:07:13.612Z'
+dateModified: '2016-03-12T07:55:12.542Z'
 title: External device test
 author: []
 sourcePath: _posts/2016-03-12-test-with-modular-synths.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: external-device-test/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ce6627ac46eea9606cf855574f8b3c3a1364ee.jpg)
