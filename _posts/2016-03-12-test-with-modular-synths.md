@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: Test with modular synths
-datePublished: '2016-03-12T07:19:33.936Z'
-dateModified: '2016-03-12T07:19:28.493Z'
+description: Hooking up a vintage modular
+datePublished: '2016-03-12T07:30:26.651Z'
+dateModified: '2016-03-12T07:30:26.236Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-test-with-modular-synths.md
@@ -21,6 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ce5536-6387-42b3-8c3f-aec510bee7e2.jpg)
+External device test
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ce6627ac46eea9606cf855574f8b3c3a1364ee.jpg)
 
 Hooking up a vintage modular
