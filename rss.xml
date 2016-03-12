@@ -4,8 +4,15 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 07:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 08:07:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[External device test]]></title>
+            <description><![CDATA[<article><h1>External device test</h1><p>Hooking up a vintage modular</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ce6627ac46eea9606cf855574f8b3c3a1364ee.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mrx/external-device-test/index.html</link>
+            <guid isPermaLink="false">8db1a952-fe38-40c1-bbad-2d5d1196a915</guid>
+            <pubDate>Sat, 12 Mar 2016 08:07:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just arrived]]></title>
             <description><![CDATA[<article><h1>Just arrived</h1><p>Bottom of mini jack interface</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a16dd833c168c8e5a4323f0525dc80e50ae8ed.png"></article>]]></description>
