@@ -4,8 +4,15 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 00:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 01:26:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a16dd833c168c8e5a4323f0525dc80e50ae8ed.png" alt="Bottom of mini jack interface" title="">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5153fa6f-ac62-40c0-8f38-d1f2405684ad.png</link>
+            <guid isPermaLink="false">59a7bdf9-021a-4ef8-a5ba-041dd7c49b80</guid>
+            <pubDate>Sat, 12 Mar 2016 01:25:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[X-Bay mini with mini jack interface]]></title>
             <description><![CDATA[<article><h1>X-Bay mini with mini jack interface</h1><p>On the background fully assembled, on the foreground in parts without cables.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e4a98b90f195d6ff08ce5f110fb7297844bd047.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e167bc-ba96-4a1c-9683-f66fce3800a1.png</link>
             <guid isPermaLink="false">59be7a7e-54f6-4c66-9fa9-7daff47f2969</guid>
             <pubDate>Fri, 11 Mar 2016 23:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a16dd833c168c8e5a4323f0525dc80e50ae8ed.png" alt="Bottom of mini jack interface" title="">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5153fa6f-ac62-40c0-8f38-d1f2405684ad.png</link>
-            <guid isPermaLink="false">59a7bdf9-021a-4ef8-a5ba-041dd7c49b80</guid>
-            <pubDate>Sat, 12 Mar 2016 00:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
