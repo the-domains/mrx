@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hooking up a vintage modular
-datePublished: '2016-03-12T07:34:45.613Z'
-dateModified: '2016-03-12T07:34:31.021Z'
+datePublished: '2016-03-12T07:36:45.228Z'
+dateModified: '2016-03-12T07:34:46.976Z'
 title: External device test
 author: []
 sourcePath: _posts/2016-03-12-test-with-modular-synths.md
