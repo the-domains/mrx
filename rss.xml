@@ -4,7 +4,7 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 07:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 07:24:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Fri, 11 Mar 2016 23:42:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portable 5 volt ]]></title>
-            <description><![CDATA[<article><h1>Portable 5 volt </h1><p>5 volt external battery as power supply</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7af36f59d43b5515cb1d7d1fcb96eb2de45d21a.png"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/298d6978-0475-497f-b7f3-1d10c2a3e756.png</link>
+            <title><![CDATA[Portable ]]></title>
+            <description><![CDATA[<article><h1>Portable </h1><p>5 volt external battery as power supply</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7af36f59d43b5515cb1d7d1fcb96eb2de45d21a.png"></article>]]></description>
+            <link>https://thegrid.ai/mrx/portable/index.html</link>
             <guid isPermaLink="false">fa151f93-4d07-4b19-840e-580f892ed133</guid>
-            <pubDate>Sat, 12 Mar 2016 02:27:02 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 07:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
