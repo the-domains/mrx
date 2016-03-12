@@ -4,7 +4,7 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 02:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 02:35:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e167bc-ba96-4a1c-9683-f66fce3800a1.png</link>
             <guid isPermaLink="false">59be7a7e-54f6-4c66-9fa9-7daff47f2969</guid>
             <pubDate>Fri, 11 Mar 2016 23:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test with modular synths</p>]]></description>
+            <link>https://thegrid.ai/mrx/test-with-modular-synths/index.html</link>
+            <guid isPermaLink="false">8db1a952-fe38-40c1-bbad-2d5d1196a915</guid>
+            <pubDate>Sat, 12 Mar 2016 02:34:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Portable 5 volt ]]></title>
