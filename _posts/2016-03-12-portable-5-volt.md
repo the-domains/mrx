@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/298d6978-0475-497f-b7f3-1d10c2a3e756.png'
 inLanguage: null
 starred: false
 keywords: []
 description: 5 volt external battery as power supply
-datePublished: '2016-03-12T02:27:02.076Z'
-dateModified: '2016-03-06T02:10:46.459Z'
+datePublished: '2016-03-12T07:23:05.520Z'
+dateModified: '2016-03-12T07:23:01.756Z'
 author: []
-title: 'Portable 5 volt '
+title: 'Portable '
+sourcePath: _posts/2016-03-12-portable-5-volt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-portable-5-volt.md
-published: true
+url: portable/index.html
 _context: 'http://schema.org'
 _type: Article
 
