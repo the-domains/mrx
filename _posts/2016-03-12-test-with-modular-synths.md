@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Test with modular synths
-datePublished: '2016-03-12T07:13:16.333Z'
-dateModified: '2016-03-12T07:11:08.231Z'
+datePublished: '2016-03-12T07:19:33.936Z'
+dateModified: '2016-03-12T07:19:28.493Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-test-with-modular-synths.md
@@ -18,8 +18,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: test-with-modular-synths/index.html
-_type: Article
+_type: Blurb
 
 ---
-Test with modular synths
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05ce5536-6387-42b3-8c3f-aec510bee7e2.jpg)
+
+Hooking up a vintage modular
