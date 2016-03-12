@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 5 volt external battery as power supply
-datePublished: '2016-03-12T07:24:25.315Z'
-dateModified: '2016-03-12T07:24:13.330Z'
+datePublished: '2016-03-12T07:37:14.448Z'
+dateModified: '2016-03-12T07:31:05.356Z'
 author: []
 title: 'Portable '
 sourcePath: _posts/2016-03-12-portable-5-volt.md
