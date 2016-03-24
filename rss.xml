@@ -4,7 +4,7 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 11:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 11:22:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[External device test]]></title>
@@ -46,7 +46,7 @@
             <description><![CDATA[<article><h1>Relay X-Mod </h1><p>Plug this X-Mod in X-Bay and you can connect channels to a 5 volt supply channel. The relay can switch high voltage AC. An obvious use case is home domotica. Setting this up was remarkable easy. No extra software updates are needed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e40251d5baac07e07ed18a7e368f060e32dc86d.png"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4bc629-e6c3-4cfe-b182-dc34e9f3780f.png</link>
             <guid isPermaLink="false">079bbc04-4c3b-4f7c-ac5b-2bfa8690ad02</guid>
-            <pubDate>Tue, 15 Mar 2016 02:51:18 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 11:22:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RCA to Pin]]></title>
