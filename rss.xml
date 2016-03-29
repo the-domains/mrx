@@ -4,7 +4,7 @@
         <description><![CDATA[X-Bay development updates]]></description>
         <link>https://thegrid.ai/mrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 11:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 23:26:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mrx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[External device test]]></title>
@@ -33,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e167bc-ba96-4a1c-9683-f66fce3800a1.png</link>
             <guid isPermaLink="false">59be7a7e-54f6-4c66-9fa9-7daff47f2969</guid>
             <pubDate>Thu, 24 Mar 2016 11:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mini enclosure]]></title>
-            <description><![CDATA[<article><h1>Mini enclosure</h1><p>Mini design draft</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c49e8d58264353cdee8640ac526a5096170538a9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/mrx/mini-enclosure/index.html</link>
-            <guid isPermaLink="false">14aaeb80-e548-4520-86f6-433aba6e0f1f</guid>
-            <pubDate>Thu, 24 Mar 2016 11:21:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Relay X-Mod ]]></title>
