@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Mini design draft
-datePublished: '2016-03-29T23:32:42.649Z'
-dateModified: '2016-03-29T23:32:39.859Z'
+datePublished: '2016-03-29T23:33:19.134Z'
+dateModified: '2016-03-29T23:33:17.399Z'
 title: Mini enclosure
 author: []
 sourcePath: _posts/2016-03-24-mini-enclosure.md
