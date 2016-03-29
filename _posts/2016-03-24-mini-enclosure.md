@@ -1,31 +1,31 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Mini draft design
-datePublished: '2016-03-24T11:21:53.086Z'
-dateModified: '2016-03-24T11:21:35.879Z'
+description: Mini design draft
+datePublished: '2016-03-29T23:25:35.708Z'
+dateModified: '2016-03-29T23:25:23.338Z'
 title: Mini enclosure
 author: []
+sourcePath: _posts/2016-03-24-mini-enclosure.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-mini-enclosure.md
-published: true
-url: mini-enclosure/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd142d17-516c-4905-80d4-3ecd6c4f58d7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69a24cb8-7afc-4ee6-8b84-ddb3d4ec00e4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2289b48-ee3c-4ec8-811f-f2d33a2e67ef.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c0f4c45-869c-4b66-8b8e-a0a93e87352f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5878f9b-4b51-4a60-a20b-a52bc019592e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/861202b7-5ba4-48e8-b923-1ef745eb4e6c.jpg)
 
+  
 Mini design draft
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8fff0f6-bfbb-4471-a1a4-b4385049f84e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a681e58-847e-46a8-b471-33bf1c1bd428.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a52996e-333f-4375-b2f1-88779cd4d332.jpg)
