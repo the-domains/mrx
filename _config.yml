@@ -1,7 +1,7 @@
 name: mrx
 favicon: null
-layout_spectrum: 0.40261
-typography_spectrum: 0.04837
+layout_spectrum: 1
+typography_spectrum: 0.76727
 collections:
   - index:
       navigable: true
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0f0f11'
-    - '#7a635d'
-    - '#e0b324'
-    - '#f86d1a'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#262626'
+    - '#4e4e4e'
+    - '#877d62'
+    - '#89b79a'
+    - '#fefefe'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
