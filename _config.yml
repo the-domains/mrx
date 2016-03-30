@@ -1,7 +1,7 @@
 name: mrx
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.29859
 collections:
   - index:
       navigable: true
@@ -34,8 +34,8 @@ color:
     - '#877d62'
     - '#89b79a'
     - '#fefefe'
-  brandStrength: 0.5625
-  lightness: 0.1875
-  saturation: 0.1875
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
