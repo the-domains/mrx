@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Mini design draft
-datePublished: '2016-04-01T18:08:18.086Z'
-dateModified: '2016-04-01T18:08:14.613Z'
+datePublished: '2016-04-02T03:46:52.855Z'
+dateModified: '2016-04-02T03:46:52.592Z'
 title: Mini enclosure
 author: []
 sourcePath: _posts/2016-03-24-mini-enclosure.md
