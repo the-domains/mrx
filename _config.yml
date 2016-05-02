@@ -1,7 +1,20 @@
-name: mrx
-favicon: null
+title: X-Bay development updates
+cta:
+  version: null
+  bucket: null
+  domain: null
 layout_spectrum: 1
-typography_spectrum: 0.29859
+favicon: null
+name: mrx
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -14,28 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: X-Bay development updates
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.01817043
   brandColors:
     - '#262626'
     - '#4e4e4e'
     - '#877d62'
     - '#89b79a'
     - '#fefefe'
-  brandStrength: 0.25
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.29859
