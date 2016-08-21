@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
 description: Mini design draft
-datePublished: '2016-04-02T03:49:51.627Z'
-dateModified: '2016-04-02T03:49:50.335Z'
-title: Mini enclosure
-author: []
+datePublished: '2016-08-21T18:14:01.112Z'
+dateModified: '2016-08-21T18:14:00.367Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-24-mini-enclosure.md
-published: true
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-_type: Blurb
+  name: ''
+  url: ''
+via: {}
+starred: false
+url: mini-enclosure/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/861202b7-5ba4-48e8-b923-1ef745eb4e6c.jpg)
