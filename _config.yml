@@ -28,6 +28,9 @@ navigation:
   - name: 256 XIO
     id: 890157be-4abb-4254-97cd-e9807508044d
     type: content
+  - name: Mini design draft
+    id: 14aaeb80-e548-4520-86f6-433aba6e0f1f
+    type: content
 favicon: null
 collections:
   - index:
