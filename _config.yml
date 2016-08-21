@@ -1,20 +1,8 @@
-title: X-Bay development updates
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.29859
 color:
-  saturation: 0
   brandStrength: 0
+  lightness: 0.4968672
+  saturation: 0
   rhythmicContrast: 0
   brandColors:
     - '#262626'
@@ -22,20 +10,36 @@ color:
     - '#877d62'
     - '#89b79a'
     - '#fefefe'
-  lightness: 0.4968672
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-cta:
-  version: null
-  bucket: null
-  domain: null
-name: mrx
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.29859
-layout_spectrum: 0.7725564
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: mrx
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - name: 256 XIO
+    id: 890157be-4abb-4254-97cd-e9807508044d
+    type: content
+favicon: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: X-Bay development updates
+purpose: []
