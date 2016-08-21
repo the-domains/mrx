@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Anatal Electronics
+  email: info@anatal.io
+  url: www.anatal.io
 name: mrx
 cta:
   version: null
