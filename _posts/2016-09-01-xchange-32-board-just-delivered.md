@@ -1,30 +1,26 @@
 ---
+datePublished: '2016-09-03T10:53:03.998Z'
+sourcePath: _posts/2016-09-01-xchange-32-board-just-delivered.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: null
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-09-01T20:36:37.934Z'
-dateModified: '2016-09-01T20:36:37.170Z'
-title: XChange-32 board just delivered
 author: []
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-09-03T10:53:03.500Z'
+title: XChange-32 board just delivered
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-09-01-xchange-32-board-just-delivered.md
 _type: Blurb
 
 ---
 # XChange-32 board just delivered
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31910f3c-20db-468b-b69a-29511379d332.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75097677-c5e1-43eb-b066-f862b6b8bb53.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53663df4-1983-445f-a1d8-f06228b0de0d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be9e4e52-2d18-4420-a716-791fd784e879.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cf66c5b-93a8-4a4c-9e7d-48a28ad171a5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c437f3c125dd24be555adce8e4fc47781127baa.jpg)
+![The bottom board is an X-Unit board. On top is the quad VCA placed for setting levels like modulation depth and mixchannel volume.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11ef15900d0c4f41ef6fd6555725996b4641a5a8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9e85483d485838b32d263d4715a45f325dcb5eb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d15d3be3b1cbfc71eb633b5b6a50af6addf9b8a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66716fce835294bbc65b92617eb5e724f21bd5c.jpg)
